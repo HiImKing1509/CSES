@@ -1,3 +1,4 @@
+![ale tag](https://cses.fi/logo.png?1)
 # CSES
 ## Introduction
  - The CSES Problem Set is a collection of algorithmic programming problems.
